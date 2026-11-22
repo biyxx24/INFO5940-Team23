@@ -7,7 +7,7 @@
 | Zheng Kang      |       |
 | Chengcheng Chen |cc3273 |
 | Xihe Xu         | xx393 |
-| Jiayi Luo       |       |
+| Jiayi Luo       | jl4965|
 
 ## Tools and process
 
