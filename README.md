@@ -5,7 +5,7 @@
 | Full name       | NetID |
 | --------------- | ----- |
 | Zheng Kang      |       |
-| Chengcheng Chen |       |
+| Chengcheng Chen |cc3273 |
 | Xihe Xu         | xx393 |
 | Jiayi Luo       |       |
 
