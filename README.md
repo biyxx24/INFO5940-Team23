@@ -4,7 +4,7 @@
 
 | Full name       | NetID |
 | --------------- | ----- |
-| Zheng Kang      |       |
+| Zheng Kang      | zk237 |
 | Chengcheng Chen |cc3273 |
 | Xihe Xu         | xx393 |
 | Jiayi Luo       | jl4965|
